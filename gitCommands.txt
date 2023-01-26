@@ -1,0 +1,10 @@
+git init
+
+git commit -m 'the message with the commit'
+git add .
+git checkout master
+
+
+git branch
+git remote add origin https://github.com/...........
+git push -u origin master
